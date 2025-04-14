@@ -9,8 +9,8 @@ This project explores multiple machine learning approaches to classify mushrooms
 - **Goal**: Binary classification of mushroom species as edible or poisonous
 - **Dataset**: Modified Kaggle Mushroom Dataset, reorganized into edible/poisonous folders
 - **Methods**:
-  - ✅ Standard CNN
-  - ✅ Transfer Learning (EfficientNetB0, ResNet50)
-  - ✅ Few-Shot Learning (Prototypical Networks)
+  -  Standard CNN
+  - Transfer Learning (EfficientNetB0, ResNet50)
+  - Few-Shot Learning (Prototypical Networks)
 - **Frameworks**: TensorFlow, Keras, Python
 
